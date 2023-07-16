@@ -1,10 +1,11 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
-* main - is a function
-* return : always (0)
-*/
-int main(void)
-}
+ * main : starting point
+ * description : this code will input
+ * return : always 0 (success)
+ */
+{
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	
+	return 0
 }

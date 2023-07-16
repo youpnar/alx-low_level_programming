@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
-* main = is a function
-* return = if 0 than work
+* main - is a function
+* return : always (0)
 */
 int main(void)
 }

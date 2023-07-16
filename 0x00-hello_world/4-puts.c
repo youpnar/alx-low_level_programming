@@ -4,7 +4,8 @@
  * main - Entry point
  *
  * Description : this is a c program that prints with puts function
- *
+ *@parameter: describe the parameter
+
  * return: Always 0 (success)
 */
 

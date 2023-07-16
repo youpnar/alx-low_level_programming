@@ -6,7 +6,7 @@
  * Description: A C program that prints withn prints function
  *
  * return: Always 0 (success)
- */
+*/
 
 int main(void)
 {

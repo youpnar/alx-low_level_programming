@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main -starting function
- * description: this code will output
  * return: always 0(success)
  */
 int main(void)

@@ -1,4 +1,4 @@
-#include <stdui.h>
+#include <stdio.h>
 /**
  * main -starting function
  * return: always 0

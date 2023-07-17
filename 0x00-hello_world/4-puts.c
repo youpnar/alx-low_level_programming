@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+
 /**
- * main - Entry point
+ * main - print "Programming is like building a multilingual puzzle"
  *
  * Description : this is a c program that prints with puts function
  *@parameter: describe the parameter

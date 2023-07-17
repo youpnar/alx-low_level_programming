@@ -2,15 +2,11 @@
 
 
 /**
- * main - print "Programming is like building a multilingual puzzle"
- *
- * Description : this is a c program that prints with puts function
- *@parameter: describe the parameter
-
- * return: Always 0 (success)
+* main — function
+* Description: describe what the function does 
+* Return: always return 0 / 1 depends on the function
 */
-
-void main(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);

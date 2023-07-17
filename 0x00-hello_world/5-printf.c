@@ -1,16 +1,10 @@
-#include <stdio.h>
-
+#include <stdui.h>
 /**
- * main - Entry point
- *
- * Description: A C program that prints withn prints function
- *
- * return: Always 0 (success)
-*/
-
+ * main -starting function
+ * return: always 0
+ */
 int main(void)
 {
-
-	printf("with proper grammar, but the outcome is a piece of art,\n);
-	return (0);
+printf("with proper grammar, but the outcome is a piece of art,"\n);
+return 0
 }

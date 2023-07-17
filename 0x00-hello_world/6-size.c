@@ -10,10 +10,10 @@ int main(void)
 	long int inteeeger = 4;
 	long long int inteeeeger = 8;
 	float floating = 4;
-printf("%d\n,character");
-printf("%d\n,integer");
-printf("%d\n,inteeeger");
-printf("%d\n,inteeeeger");
-printf("%d\n,floating");
+printf("Size of a char %d :byte(s)\n,character");
+printf("Size of an int %d: byte(s) \n,integer");
+printf(" Size of a long int %d :byte(s)\n,inteeeger");
+printf("Size of a long long int %d :byte(s)\n,inteeeeger");
+printf(" Size of a float %d :byte(s)\n,floating");
 return (0);
 }

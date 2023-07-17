@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main -starting function
- * return: always 0
+ * description: this code will output
+ * return: always 0(success)
  */
 int main(void)
 {

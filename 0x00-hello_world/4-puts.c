@@ -1,13 +1,10 @@
 #include <stdio.h>
-
-
 /**
-* main — function
-* Description: describe what the function does 
-* Return: always return 0 / 1 depends on the function
-*/
+ * main - main block
+ * Return: 0
+ */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }

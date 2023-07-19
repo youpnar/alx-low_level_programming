@@ -10,5 +10,5 @@ for(p='a';p <= 'z';++p)
 {
 printf("%c\n",p);
 }
-return (0)
+return (0);
 }

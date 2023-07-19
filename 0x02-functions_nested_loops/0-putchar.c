@@ -1,11 +1,10 @@
 #include <stdio.h>
-
+/**
+ * main - main block
+ * Return: 0 (success)
+*/
 int main(void)
 {
-	/**
-	 * main - starting point
-	 * Return:always 0(success)
-	  */
 printf("_putchar\n");
-return (0);
+return 0;
 }

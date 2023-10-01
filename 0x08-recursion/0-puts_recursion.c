@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
-* main : print a string
-* Return always (0);
+* _puts_recursion - Prints a string followed by a new line
+* @s: string
+*
+* Return: On success 1.
+* On error, -1 is returned, and erro is set appropriately.
 */
 void _puts_recursion(char *s)
 {
